@@ -1,0 +1,122 @@
+[
+  {
+      "title": "Effective Java",
+      "author": "Joshua Bloch",
+      "isbn": "978-0134685991",
+      "poster": "https://covers.openlibrary.org/b/id/8250561-L.jpg",
+      "price": 45.99,
+      "reviewIds": []
+  },
+  {
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "isbn": "978-0132350884",
+      "poster": "https://covers.openlibrary.org/b/id/6979861-L.jpg",
+      "price": 40.99,
+      "reviewIds": []
+  },
+  {
+      "title": "Introduction to Algorithms",
+      "author": "Thomas H. Cormen",
+      "isbn": "978-0262033848",
+      "poster": "https://covers.openlibrary.org/b/id/6922332-L.jpg",
+      "price": 85.99,
+      "reviewIds": []
+  },
+  {
+      "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+      "author": "Erich Gamma",
+      "isbn": "978-0201633610",
+      "poster": "https://covers.openlibrary.org/b/id/9408100-L.jpg",
+      "price": 54.99,
+      "reviewIds": []
+  },
+  {
+      "title": "Refactoring: Improving the Design of Existing Code",
+      "author": "Martin Fowler",
+      "isbn": "978-0201485677",
+      "poster": "https://covers.openlibrary.org/b/id/10041539-L.jpg",
+      "price": 47.99,
+      "reviewIds": []
+  },
+  {
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt",
+      "isbn": "978-0135957059",
+      "poster": "https://covers.openlibrary.org/b/id/10617861-L.jpg",
+      "price": 42.99,
+      "reviewIds": []
+  },
+  {
+      "title": "You Don't Know JS",
+      "author": "Kyle Simpson",
+      "isbn": "978-1491904244",
+      "poster": "https://covers.openlibrary.org/b/id/10567068-L.jpg",
+      "price": 39.99,
+      "reviewIds": []
+  },
+  {
+      "title": "JavaScript: The Good Parts",
+      "author": "Douglas Crockford",
+      "isbn": "978-0596517748",
+      "poster": "https://covers.openlibrary.org/b/id/8400861-L.jpg",
+      "price": 35.99,
+      "reviewIds": []
+  },
+  {
+      "title": "Code Complete",
+      "author": "Steve McConnell",
+      "isbn": "978-0735619678",
+      "poster": "https://covers.openlibrary.org/b/id/8155464-L.jpg",
+      "price": 55.99,
+      "reviewIds": []
+  },
+  {
+      "title": "The Mythical Man-Month",
+      "author": "Frederick P. Brooks Jr.",
+      "isbn": "978-0201835953",
+      "poster": "https://covers.openlibrary.org/b/id/240726-L.jpg",
+      "price": 48.99,
+      "reviewIds": []
+  },
+  {
+      "title": "Clean Architecture",
+      "author": "Robert C. Martin",
+      "isbn": "978-0134494166",
+      "poster": "https://covers.openlibrary.org/b/id/8451131-L.jpg",
+      "price": 50.99,
+      "reviewIds": []
+  },
+  {
+      "title": "Structure and Interpretation of Computer Programs",
+      "author": "Harold Abelson",
+      "isbn": "978-0262510874",
+      "poster": "https://covers.openlibrary.org/b/id/8226191-L.jpg",
+      "price": 60.99,
+      "reviewIds": []
+  },
+  {
+      "title": "Working Effectively with Legacy Code",
+      "author": "Michael Feathers",
+      "isbn": "978-0131177055",
+      "poster": "https://covers.openlibrary.org/b/id/10361207-L.jpg",
+      "price": 52.99,
+      "reviewIds": []
+  },
+  {
+      "title": "The Art of Computer Programming",
+      "author": "Donald E. Knuth",
+      "isbn": "978-0201896831",
+      "poster": "https://covers.openlibrary.org/b/id/8250297-L.jpg",
+      "price": 200.99,
+      "reviewIds": []
+  },
+  {
+      "title": "Head First Design Patterns",
+      "author": "Eric Freeman",
+      "isbn": "978-0596007126",
+      "poster": "https://covers.openlibrary.org/b/id/10561130-L.jpg",
+      "price": 45.99,
+      "reviewIds": []
+  }
+]
