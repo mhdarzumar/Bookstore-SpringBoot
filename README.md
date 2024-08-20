@@ -1,4 +1,4 @@
-# **Book-store Branch**
+# **Navigate to Book-store Branch**
 
 Welcome to the **Book-store** branch of the repository. This branch contains the files for the Bookstore project.
 
